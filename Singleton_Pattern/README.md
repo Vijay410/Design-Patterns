@@ -1,4 +1,4 @@
-## Title: Thread-Safe Singleton Logger.
+## Singleton Logger with Thread Safetyr.
 
 ### Introduction
 This project demonstrates the implementation of a thread-safe Singleton pattern using a metaclass in Python. 
